@@ -30,13 +30,13 @@ Key Features
 
 ## You can install the dependencies by running:
 
-    bash
+bash
 
-        pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## Usage
 
-    Clone the repository:
+### Clone the repository:
 
 bash
 
