@@ -32,7 +32,7 @@ Key Features
 
 bash
 
-''' pip install -r requirements.txt '''
+    pip install -r requirements.txt
 
 ## Usage
 
@@ -40,7 +40,7 @@ bash
 
 bash
 
-""" git clone https://github.com/yourusername/hate-speech-detection.git '''
+    git clone https://github.com/yourusername/hate-speech-detection.git 
 
     Install the required dependencies.
 
@@ -49,14 +49,14 @@ bash
     To make predictions using the saved model:
 
 python
-"""
-import joblib
-model = joblib.load("hateSpeech.pkl")
-predictions = model.predict(your_input_data) """
 
-Model Performance
+    import joblib
+    model = joblib.load("hateSpeech.pkl")
+    predictions = model.predict(your_input_data) 
 
-## The model achieves the following metrics on the test dataset:
+## Model Performance
+
+### The model achieves the following metrics on the test dataset:
 
     Accuracy: 85.34%
     F1 Score: 85.53%
