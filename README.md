@@ -32,7 +32,7 @@ Key Features
 
 bash
 
-""" pip install -r requirements.txt """
+''' pip install -r requirements.txt '''
 
 ## Usage
 
@@ -40,7 +40,7 @@ bash
 
 bash
 
-""" git clone https://github.com/yourusername/hate-speech-detection.git """
+""" git clone https://github.com/yourusername/hate-speech-detection.git '''
 
     Install the required dependencies.
 
